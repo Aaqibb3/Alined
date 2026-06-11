@@ -2,7 +2,7 @@
 
 Thanks for using Alined.
 
-Alined is a local-first app for tracking activity, planner items, expenses, nutrition, and day-level notes in one place.
+Alined is a local-first app for tracking activity, planner items, expenses, nutrition, and day-level notes in one place. Alined Expenses is the Android expense-focused version of Alined.
 
 ## Need Help?
 
@@ -15,7 +15,7 @@ If you run into a problem, have a question, or want to report a bug, email:
 If you contact support, it helps to include:
 
 - the device model you are using
-- your iOS version
+- your iOS or Android version
 - the app version
 - what you were trying to do
 - what happened instead
@@ -25,6 +25,11 @@ If you contact support, it helps to include:
 
 Alined stores data locally on your device. If you want extra safety, use the built-in backup and export features from the app before making major changes.
 
+## Privacy
+
+Alined is designed as a local-first app and does not upload your logs to a developer-owned server.
+
+For full privacy details, refer to the Alined Privacy Policy.
 ## Privacy
 
 Alined is designed as a local-first app and does not upload your logs to a developer-owned server.
