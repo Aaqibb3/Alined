@@ -1,8 +1,8 @@
 # Alined Privacy Policy
 
-Last updated: May 5, 2026
+Last updated: June 12, 2026
 
-Alined is a local-first app designed to help you track and review parts of your daily life, including activity, planner items, expenses, nutrition, notes, and reminders.
+Alined is a local-first app designed to help you track and review parts of your daily life, including activity, planner items, expenses, nutrition, notes, and reminders. This policy also covers Alined Expenses, the Android expense-focused version of Alined.
 
 ## Overview
 
@@ -16,7 +16,7 @@ Alined is built to keep your information on your device.
 
 ## Information Stored by the App
 
-Depending on how you use Alined, the app may store the following information locally on your device:
+Depending on which Alined app you use, the app may store the following information locally on your device:
 
 - Activity sections, subsections, and logs
 - Planner items, schedules, reminders, and completion notes
@@ -24,6 +24,7 @@ Depending on how you use Alined, the app may store the following information loc
 - Nutrition entries and meal types
 - Day notes and reflections
 - App preferences and organization settings
+- Spending spaces or profiles in Alined Expenses
 
 This information is used only to provide the app’s features on your device.
 
@@ -35,13 +36,17 @@ At the time of this policy, Alined does not use accounts, cloud sync, third-part
 
 ## Backups and Exports
 
-Alined allows you to create backups and focused exports manually.
+Alined allows you to create backups and focused exports manually. Alined Expenses allows user-initiated expense exports.
 
 - Backups and exports are created only when you choose to generate them.
 - Exported files are saved or shared only through the system destinations you select.
 - The developer does not automatically receive exported files.
 
 Once an exported file leaves the app, you are responsible for how it is stored or shared.
+
+## Device Backups
+
+Alined Expenses may be included in Android device backup or device transfer if those features are enabled on your device. This is handled by Android and your Google/device settings, not by a developer-owned Alined server.
 
 ## Notifications
 
@@ -62,11 +67,11 @@ Because your data is stored locally on your device:
 
 - you can delete entries inside the app
 - you can remove exported files manually
-- deleting the app may remove locally stored app data, subject to iOS behavior and any backups you created
+- deleting the app may remove locally stored app data, subject to your device platform and any backups you created
 
 ## Security
 
-Alined relies on the security protections of iOS and your device environment. No storage method is perfectly risk-free, so you should keep your device updated and protected.
+Alined relies on the security protections of iOS, Android, and your device environment. No storage method is perfectly risk-free, so you should keep your device updated and protected.
 
 ## Changes to This Policy
 
