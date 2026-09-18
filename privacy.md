@@ -1,42 +1,37 @@
 # Alined Privacy Policy
 
-Last updated: June 12, 2026
+Last updated: September 19, 2026
 
-Alined is a local-first app designed to help you track and review parts of your daily life, including activity, planner items, expenses, nutrition, notes, and reminders. This policy also covers Alined Expenses, the Android expense-focused version of Alined.
+Alined is a local-first app designed to help you track and review parts of your daily life, including activity, planner items, expenses, nutrition, notes, reminders, counters, rhythm blocks, and ideas. This policy also covers Alined Expenses if made available.
 
 ## Overview
 
-Alined is built to keep your information on your device.
-
-- Alined does not require an account.
-- Alined does not upload your logs to a developer-owned server.
-- Alined does not include advertising SDKs.
-- Alined does not include third-party analytics SDKs.
-- Your entries are stored locally on your device unless you choose to export them.
+Alined is built to keep your information on your device. The app does not require an account, and your personal logs are not automatically sent to a developer-owned server.
 
 ## Information Stored by the App
 
 Depending on which Alined app you use, the app may store the following information locally on your device:
 
-- Activity sections, subsections, and logs
-- Planner items, schedules, reminders, and completion notes
-- Expense categories and expense entries
-- Nutrition entries and meal types
+- Activity sections, subsections, logs, notes, ratings, duration, and activity settings
+- Planner items, schedules, reminders, completions, completion notes, and task history
+- Expense categories, expense entries, amounts, currencies, dates, and notes
+- Nutrition entries, meal types, calories, macros, dates, and notes
+- Counters, counter events, tracked items, quantities, cycles, and notes
+- Rhythm blocks, rhythm logs, reminders, statuses, and notes
+- Ideas, idea details, statuses, and pinned state
 - Day notes and reflections
-- App preferences and organization settings
-- Spending spaces or profiles in Alined Expenses
+- App preferences, organization settings, and layout preferences
+- Spending spaces or profiles in Alined Expenses, if available
 
 This information is used only to provide the app’s features on your device.
 
-## Data Collection
+## Accounts and Cloud Sync
 
-Alined does not collect your personal data to the developer’s servers.
-
-At the time of this policy, Alined does not use accounts, cloud sync, third-party analytics, or advertising services that collect your in-app data.
+At the time of this policy, Alined does not use accounts, cloud sync, third-party analytics, third-party advertising, or developer-owned servers to store your personal app data.
 
 ## Backups and Exports
 
-Alined allows you to create backups and focused exports manually. Alined Expenses allows user-initiated expense exports.
+Alined allows you to create backups and focused exports manually. Alined Expenses, if available, may allow user-initiated expense exports.
 
 - Backups and exports are created only when you choose to generate them.
 - Exported files are saved or shared only through the system destinations you select.
@@ -46,22 +41,23 @@ Once an exported file leaves the app, you are responsible for how it is stored o
 
 ## Device Backups
 
-Alined Expenses may be included in Android device backup or device transfer if those features are enabled on your device. This is handled by Android and your Google/device settings, not by a developer-owned Alined server.
+Alined may be included in iCloud backup or device transfer if those features are enabled on your device. If Alined Expenses is available, it may be included in Android backup or device transfer depending on your device settings. These backups are handled by your device platform and account settings, not by a developer-owned Alined server.
 
 ## Notifications
 
-If you enable reminders, Alined may schedule local notifications on your device.
+If you enable reminders, Alined may schedule local notifications on your device. These notifications are used only for reminders you set or enable in the app.
 
-- Reminder scheduling is handled on device.
-- Reminder data is not automatically uploaded to the developer.
+## Alined Plus and Purchases
 
-## Third-Party Services
+Alined Plus is an optional auto-renewable subscription available through Apple’s in-app purchase system.
 
-At this time, Alined does not use third-party advertising, analytics, account, or cloud-sync services that collect your app data.
+Apple processes subscription billing and payment information. Alined does not collect or store your payment card details.
 
-If that changes in a future version, this policy will be updated before or with that change.
+The app may check your Apple subscription entitlement through StoreKit to unlock Alined Plus features or restore purchases.
 
-## Data Retention and Deletion
+You can manage or cancel your subscription through your Apple ID/App Store account settings.
+
+## Data Deletion
 
 Because your data is stored locally on your device:
 
@@ -71,14 +67,14 @@ Because your data is stored locally on your device:
 
 ## Security
 
-Alined relies on the security protections of iOS, Android, and your device environment. No storage method is perfectly risk-free, so you should keep your device updated and protected.
+Alined relies on the security protections of iOS, Android where applicable, and your device environment. No storage method is perfectly risk-free, so you should keep your device updated and protected.
 
 ## Changes to This Policy
 
-This Privacy Policy may be updated as Alined evolves. If the app’s data practices change in a meaningful way, this policy will be updated accordingly.
+This policy may be updated as Alined changes. The “Last updated” date will be changed when the policy is revised.
 
 ## Contact
 
-If you have questions about this Privacy Policy or Alined’s privacy practices, contact:
+For support or privacy questions, contact:
 
-`synconome@gmail.com`
+synconome@gmail.com
